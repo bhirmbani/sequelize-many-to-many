@@ -1,5 +1,7 @@
 # sequelize-many-to-many
-Contoh implementasi many-to-many relationship pada ORM Sequelize.JS
+Contoh implementasi many-to-many relationship pada ORM Sequelize.JS. Penjelasan mengenai many-to-many relationship dan implementasi pada sequelize.js ada pada blog post saya.
+
+- [Many-to-many Relationship pada Sequelize.JS](http://www.akbarsahata.id/blog/2017/04/12/many-to-many-relationship-pada-sequelize-js/)
 
 ## cara menjalankan
 Untuk menjalankan program, lakukan
